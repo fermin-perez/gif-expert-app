@@ -1,6 +1,6 @@
 # GifExpertApp
 
-GifExpertApp es una aplicación web interactiva que utiliza la API de [GYPHY](https://giphy.com/) para buscar y mostrar una selección de GIFs animados.
+GifExpertApp es una aplicación web interactiva que utiliza la API de [GIPHY](https://giphy.com/) para buscar y mostrar una selección de GIFs animados.
 
 ## Pasos a realizar
 
